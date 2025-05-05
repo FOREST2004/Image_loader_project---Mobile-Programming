@@ -1,0 +1,5 @@
+<!-- app/res/values/strings.xml -->
+<resources>
+    <string name="app_name">Image Loader Project</string>
+    <string name="image_description">Loaded image</string>
+</resources>
